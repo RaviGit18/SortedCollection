@@ -9,6 +9,8 @@ public class Main {
 	    StockItem temp = new StockItem("bread", 0.86, 100);
         stockList.addStock(temp);
 
+        //Test comment
+        
         temp = new StockItem("cake", 1.10, 7);
         stockList.addStock(temp);
 
